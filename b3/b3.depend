@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1728918791 source:c:\users\admin\desktop\it002\lab2\b3\diem.cpp
+	"Diem.h"
+	<bits/stdc++.h>
+
+1728918786 c:\users\admin\desktop\it002\lab2\b3\diem.h
+
+1728919851 source:c:\users\admin\desktop\it002\lab2\b3\main.cpp
+	"DaGiac.h"
+	<bits/stdc++.h>
+
+1728919408 c:\users\admin\desktop\it002\lab2\b3\dagiac.h
+	"Diem.h"
+	<bits/stdc++.h>
+
+1728919864 source:c:\users\admin\desktop\it002\lab2\b3\dagiac.cpp
+	"DaGiac.h"
+	<bits/stdc++.h>
+

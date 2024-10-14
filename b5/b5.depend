@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728893030 source:c:\users\admin\desktop\it002\lab2\b5\main.cpp
+	"Diem.h"
+	<bits/stdc++.h>
+
+1728892971 c:\users\admin\desktop\it002\lab2\b5\diem.h
+
+1728892984 source:c:\users\admin\desktop\it002\lab2\b5\diem.cpp
+	"Diem.h"
+	<bits/stdc++.h>
+

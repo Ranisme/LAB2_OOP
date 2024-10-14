@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728909992 source:c:\users\admin\desktop\it002\lab2\b5\b8\clish.cpp
+	"cList.h"
+	<bits/stdc++.h>
+
+1728910011 c:\users\admin\desktop\it002\lab2\b5\b8\clist.h
+	<bits/stdc++.h>
+
+1728909255 source:c:\users\admin\desktop\it002\lab2\b5\b8\main.cpp
+	"cList.h"
+	<bits/stdc++.h>
+

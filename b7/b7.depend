@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728893807 source:c:\users\admin\desktop\it002\lab2\b7\main.cpp
+	"Polygon.h"
+	<bits/stdc++.h>
+
+1728893888 source:c:\users\admin\desktop\it002\lab2\b7\polygon.cpp
+	"Polygon.h"
+	<bits/stdc++.h>
+
+1728893546 c:\users\admin\desktop\it002\lab2\b7\polygon.h
+	<bits/stdc++.h>
+

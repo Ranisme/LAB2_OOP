@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1728890736 source:c:\users\admin\desktop\it002\lab2\b4\b4\hocsinh.cpp
+	"HocSinh.h"
+	<bits/stdc++.h>
+
+1728890513 c:\users\admin\desktop\it002\lab2\b4\b4\hocsinh.h
+
+1728890783 source:c:\users\admin\desktop\it002\lab2\b4\b4\main.cpp
+	"HocSinh.h"
+	<bits/stdc++.h>
+
+1728893465 source:c:\users\admin\desktop\it002\lab2\b4\hocsinh.cpp
+	"HocSinh.h"
+	<bits/stdc++.h>
+
+1728893451 c:\users\admin\desktop\it002\lab2\b4\hocsinh.h
+	<bits/stdc++.h>
+
+1728890783 source:c:\users\admin\desktop\it002\lab2\b4\main.cpp
+	"HocSinh.h"
+	<bits/stdc++.h>
+

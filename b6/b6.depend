@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728912333 source:c:\users\admin\desktop\it002\lab2\b5\b6\main.cpp
+	"TamGiac.h"
+	<bits/stdc++.h>
+
+1728912308 c:\users\admin\desktop\it002\lab2\b5\b6\tamgiac.h
+	<bits/stdc++.h>
+
+1728911439 source:c:\users\admin\desktop\it002\lab2\b5\b6\tamgiac.cpp
+	"TamGiac.h"
+	<bits/stdc++.h>
+
